@@ -1,1 +1,1 @@
-This is a repo for learning Git
+This is an update for the sake of the exercise.
